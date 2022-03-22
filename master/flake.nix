@@ -9,7 +9,7 @@
   
   inputs.src-weightedgraph-master.flake = false;
   inputs.src-weightedgraph-master.owner = "AzamShafiul";
-  inputs.src-weightedgraph-master.ref   = "refs/heads/master";
+  inputs.src-weightedgraph-master.ref   = "master";
   inputs.src-weightedgraph-master.repo  = "weighted_graph";
   inputs.src-weightedgraph-master.type  = "github";
   
