@@ -36,10 +36,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-weightedgraph-master": "src-weightedgraph-master"
+        "src-weighted_graph-master": "src-weighted_graph-master"
       }
     },
-    "src-weightedgraph-master": {
+    "src-weighted_graph-master": {
       "flake": false,
       "locked": {
         "lastModified": 1583825027,
